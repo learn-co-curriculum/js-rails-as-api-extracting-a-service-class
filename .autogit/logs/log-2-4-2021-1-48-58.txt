@@ -1,0 +1,75 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 02 2021 01:48:58 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* .ruby-version
+* Gemfile
+* Gemfile.lock
+* app/controllers/sightings_controller.rb
+* db/migrate/20190514145411_create_locations.rb
+* db/migrate/20190514145517_create_birds.rb
+* db/migrate/20190514145524_create_sightings.rb
+* db/schema.rb
+
+
+Created files:
+* .autogit/autogit.json
+* app/services/sighting_serializer.rb
+* vendor/cache/actioncable-5.2.5.gem
+* vendor/cache/actionmailer-5.2.5.gem
+* vendor/cache/actionpack-5.2.5.gem
+* vendor/cache/actionview-5.2.5.gem
+* vendor/cache/activejob-5.2.5.gem
+* vendor/cache/activemodel-5.2.5.gem
+* vendor/cache/activerecord-5.2.5.gem
+* vendor/cache/activestorage-5.2.5.gem
+* vendor/cache/activesupport-5.2.5.gem
+* vendor/cache/arel-9.0.0.gem
+* vendor/cache/bootsnap-1.7.4.gem
+* vendor/cache/builder-3.2.4.gem
+* vendor/cache/byebug-11.1.3.gem
+* vendor/cache/concurrent-ruby-1.1.8.gem
+* vendor/cache/crass-1.0.6.gem
+* vendor/cache/erubi-1.10.0.gem
+* vendor/cache/ffi-1.15.0.gem
+* vendor/cache/globalid-0.4.2.gem
+* vendor/cache/i18n-1.8.10.gem
+* vendor/cache/listen-3.0.8.gem
+* vendor/cache/loofah-2.9.1.gem
+* vendor/cache/mail-2.7.1.gem
+* vendor/cache/marcel-1.0.1.gem
+* vendor/cache/method_source-1.0.0.gem
+* vendor/cache/mini_mime-1.1.0.gem
+* vendor/cache/minitest-5.14.4.gem
+* vendor/cache/msgpack-1.4.2.gem
+* vendor/cache/nio4r-2.5.7.gem
+* vendor/cache/nokogiri-1.11.3-x86_64-darwin.gem
+* vendor/cache/puma-3.12.6.gem
+* vendor/cache/racc-1.5.2.gem
+* vendor/cache/rack-2.2.3.gem
+* vendor/cache/rack-cors-1.1.1.gem
+* vendor/cache/rack-test-1.1.0.gem
+* vendor/cache/rails-5.2.5.gem
+* vendor/cache/rails-dom-testing-2.0.3.gem
+* vendor/cache/rails-html-sanitizer-1.3.0.gem
+* vendor/cache/railties-5.2.5.gem
+* vendor/cache/rake-13.0.3.gem
+* vendor/cache/rb-fsevent-0.10.4.gem
+* vendor/cache/rb-inotify-0.10.1.gem
+* vendor/cache/spring-2.1.1.gem
+* vendor/cache/spring-watcher-listen-2.0.1.gem
+* vendor/cache/sprockets-4.0.2.gem
+* vendor/cache/sprockets-rails-3.2.2.gem
+* vendor/cache/sqlite3-1.4.2.gem
+* vendor/cache/thor-1.1.0.gem
+* vendor/cache/thread_safe-0.3.6.gem
+* vendor/cache/tzinfo-1.2.9.gem
+* vendor/cache/websocket-driver-0.7.3.gem
+* vendor/cache/websocket-extensions-0.1.5.gem
+
+
+Deleted files:
+
+
+Renamed files:
